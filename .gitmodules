@@ -1,0 +1,9 @@
+[submodule "kafka-video-server-python"]
+	path = kafka-video-server-python
+	url = https://github.com/Javier-Godon/kafka-video-server-python
+[submodule "video-collector-mongodb-python"]
+	path = video-collector-mongodb-python
+	url = https://github.com/Javier-Godon/video-collector-mongodb-python
+[submodule "kafka-video-consumer-mongodb-python"]
+	path = kafka-video-consumer-mongodb-python
+	url = https://github.com/Javier-Godon/kafka-video-consumer-mongodb-python
